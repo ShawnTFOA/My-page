@@ -26,14 +26,14 @@
 <div class="container-fluid">
   <h2 class="white-text">My page!!!!</h2>
 
-  <img class="smaller-image thick-green-border" src="https://http://bit.ly/2nk8lzP">
+  <img class="smaller-image " src="https://http://bit.ly/2nk8lzP">
 
   
-  <p>                                     許程翔</p>
-  <ol>
-    <li>                                  資工四乙</li>
-    <li>                                  402262361</li>
+  <p>許程翔</p>
+  <ol><li>資工四乙</li>
+    <li>402262361</li>
   </ol>
+  
 <p>興趣:</p>
   <ul>
     <li>籃球,棒球,美式足球,武術</li>
