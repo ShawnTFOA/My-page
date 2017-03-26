@@ -19,7 +19,7 @@
     border-radius: 50%;
   }
 .smaller-image {
-    width: 400px;
+    width: 200px;
   }
 </style>
 <body style="background: url( http://bit.ly/2nTJeGN) no-repeat fixed; background-size: cover;"> 
@@ -35,8 +35,8 @@
   <h2 class="white-text">402262361</h2>
 <p class="white-text">興趣:</p>
   <ol>
-    <li>籃球,棒球,美式足球,武術</li>
-    <li>模型,做東西</li>
-    <li>看影劇,小說</li>
+    <li class="white-text">籃球,棒球,美式足球,武術</li>
+    <li class="white-text">模型,做東西</li>
+    <li class="white-text">看影劇,小說</li>
   </ol>
 </div>
