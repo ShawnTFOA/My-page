@@ -19,7 +19,7 @@
     border-radius: 50%;
   }
 .smaller-image {
-    width: 50px;
+    width: 100px;
   }
 </style>
 
@@ -29,10 +29,10 @@
   <img class="smaller-image thick-green-border" src="https://http://bit.ly/2nk8lzP">
 
   
-  <p>許程翔</p>
+  <p>                                     許程翔</p>
   <ol>
-    <li>資工四乙</li>
-    <li>402262361</li>
+    <li>                                  資工四乙</li>
+    <li>                                  402262361</li>
   </ol>
 <p>興趣:</p>
   <ul>
