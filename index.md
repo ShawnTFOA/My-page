@@ -2,6 +2,7 @@
 <style>
   .white-text {
     color: white;
+    font-size: 25px;
   }
 
   h2 {
@@ -9,7 +10,7 @@
   }
 
   p {
-    font-size: 16px;
+    font-size: 12px;
     font-family: Monospace;
   }
   .thick-red-border {
