@@ -12,16 +12,20 @@
     font-size: 16px;
     font-family: Monospace;
   }
-  
+  .thick-red-border {
+    border-color: red;
+    border-width: 10px;
+    border-style: solid;
+  }
 .smaller-image {
-    width: 500px;
+    width: 100px;
   }
 </style>
 
 <div class="container-fluid">
   <h2 class="white-text">My page!!!!</h2>
 
-  <img class="smaller-image " src="http://bit.ly/2nk8lzP">
+  <img class="smaller-image thick-red-border" src="http://bit.ly/2nk8lzP">
 
   
   <p>許程翔</p>
