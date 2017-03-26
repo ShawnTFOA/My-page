@@ -20,7 +20,7 @@
 <div class="container-fluid">
   <h2 class="white-text">My page!!!!</h2>
 
-  <img src="http://www.patriots.com/sites/patriots.com/files/1024x768-pats2016-wallpaper.jpg">
+  <img class="smaller-image" src="http://www.patriots.com/sites/patriots.com/files/1024x768-pats2016-wallpaper.jpg">
 
   
   <p>基本資料：</p>
