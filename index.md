@@ -28,10 +28,10 @@
     border-radius: 50%;
   }
 .smaller-image {
-    width: 300px;
+    width: 200px;
   }
   .smaller-image2 {
-    width: 100px;
+    width: 150px;
   }
 </style>
 <body style="background: url( http://bit.ly/2nTJeGN) no-repeat fixed; background-size: cover;"> 
