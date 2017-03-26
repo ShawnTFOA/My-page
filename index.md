@@ -19,19 +19,18 @@
     border-radius: 50%;
   }
 .smaller-image {
-    width: 100px;
+    width: 10px;
   }
 </style>
 
 <div class="container-fluid">
   <h2 class="white-text">My page!!!!</h2>
 
-  <img class="smaller-image" src="http://www.patriots.com/sites/patriots.com/files/1024x768-pats2016-wallpaper.jpg">
+  <img class="smaller-image" src="https://http://bit.ly/2nk8lzP">
 
   
-  <p>基本資料：</p>
+  <p>許程翔</p>
   <ol>
-    <li>許程翔</li>
     <li>資工四乙</li>
     <li>402262361</li>
   </ol>
