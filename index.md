@@ -21,7 +21,10 @@
     width: 100px;
   }
 </style>
-
+body {
+    background: url(http://bit.ly/2npDcg2) no-repeat center center;
+    background-size: cover; 
+}
 <div class="container-fluid">
   <h2 class="white-text">My page!!!!</h2>
 
