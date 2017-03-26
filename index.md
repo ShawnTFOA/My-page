@@ -18,7 +18,7 @@
 
   p {
     color: white;
-    font-size: 20px;
+    font-size: 30px;
     font-family: Monospace;
   }
   .thick-red-border {
@@ -38,11 +38,11 @@
 
 <div class="container-fluid">
   <h2 class="white-text" align="center">My page!!!!</h2>
-<img class="smaller-image2" src="http://bit.ly/2nWQDWb">
+
  <p align="center">
  <img class="smaller-image thick-red-border" src="http://bit.ly/2nk8lzP">
  </p>
-  
+  <img class="smaller-image2" src="http://bit.ly/2nWQDWb">
   <h2 class="white-text3" align="center">許程翔</h2>
   <h2 class="white-text3" align="center">資工四乙</h2>
   <h2 class="white-text3" align="center">402262361</h2>
