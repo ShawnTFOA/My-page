@@ -19,14 +19,14 @@
     border-radius: 50%;
   }
 .smaller-image {
-    width: 10px;
+    width: 50px;
   }
 </style>
 
 <div class="container-fluid">
   <h2 class="white-text">My page!!!!</h2>
 
-  <img class="smaller-image" src="https://http://bit.ly/2nk8lzP">
+  <img class="smaller-image thick-green-border" src="https://http://bit.ly/2nk8lzP">
 
   
   <p>許程翔</p>
