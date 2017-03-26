@@ -30,12 +30,15 @@
 .smaller-image {
     width: 100px;
   }
+  .smaller-image2 {
+    width: 200px;
+  }
 </style>
 <body style="background: url( http://bit.ly/2nTJeGN) no-repeat fixed; background-size: cover;"> 
 
 <div class="container-fluid">
   <h2 class="white-text" align="center">My page!!!!</h2>
-
+<img class="smaller-image2" scr="http://bit.ly/2nWQDWb">
  <p align="center">
  <img class="smaller-image thick-red-border" src="http://bit.ly/2nk8lzP">
  </p>
