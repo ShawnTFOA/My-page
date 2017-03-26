@@ -31,7 +31,7 @@
     width: 300px;
   }
   .smaller-image2 {
-    width: 200px;
+    width: 100px;
   }
 </style>
 <body style="background: url( http://bit.ly/2nTJeGN) no-repeat fixed; background-size: cover;"> 
@@ -44,8 +44,8 @@
  </p>
   <img class="smaller-image2" src="http://bit.ly/2nWQDWb">
   <h2 class="white-text3" align="center">許程翔</h2>
-  <h2 class="white-text3" align="center">資工四乙</h2>
-  <h2 class="white-text3" align="center">402262361</h2>
+  <h2 class="white-text2" align="center">資工四乙</h2>
+  <h2 class="white-text2" align="center">402262361</h2>
 <p align="center">興趣:</p>
   <ol class="white-text2" align="center">
     <li >籃球,棒球,美式足球,武術</li>
