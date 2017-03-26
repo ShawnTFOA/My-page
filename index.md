@@ -2,16 +2,19 @@
 <style>
   .white-text {
     color: white;
-    font-size: 25px;
+    font-size: 50px;
   }
-
+.white-text2 {
+    color: white;
+    font-size: 12px;
+  }
   h2 {
     font-family: Lobster, Monospace;
   }
 
   p {
     color: white;
-    font-size: 12px;
+    font-size: 20px;
     font-family: Monospace;
   }
   .thick-red-border {
@@ -36,7 +39,7 @@
   <h2 class="white-text">資工四乙</h2>
   <h2 class="white-text">402262361</h2>
 <p >興趣:</p>
-  <ol>
+  <ol class="white-text2">
     <li >籃球,棒球,美式足球,武術</li>
     <li >模型,做東西</li>
     <li >看影劇,小說</li>
