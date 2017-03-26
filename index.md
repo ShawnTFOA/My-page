@@ -36,8 +36,9 @@
 <div class="container-fluid">
   <h2 class="white-text" align="center">My page!!!!</h2>
 
-  <img class="smaller-image thick-red-border" align="center" src="http://bit.ly/2nk8lzP">
-
+ <p align="center">
+ <img class="smaller-image thick-red-border" src="http://bit.ly/2nk8lzP">
+ </p>
   
   <h2 class="white-text3" align="center">許程翔</h2>
   <h2 class="white-text3" align="center">資工四乙</h2>
