@@ -8,6 +8,10 @@
     color: white;
     font-size: 12px;
   }
+  .white-text3 {
+    color: white;
+    font-size: 30px;
+  }
   h2 {
     font-family: Lobster, Monospace;
   }
@@ -35,10 +39,10 @@
   <img class="smaller-image thick-red-border" src="http://bit.ly/2nk8lzP">
 
   
-  <h2 class="white-text">許程翔</h2>
-  <h2 class="white-text">資工四乙</h2>
-  <h2 class="white-text">402262361</h2>
-<p >興趣:</p>
+  <h2 class="white-text3">許程翔</h2>
+  <h2 class="white-text3">資工四乙</h2>
+  <h2 class="white-text3">402262361</h2>
+<p align="center">興趣:</p>
   <ol class="white-text2">
     <li >籃球,棒球,美式足球,武術</li>
     <li >模型,做東西</li>
