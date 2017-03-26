@@ -39,7 +39,7 @@
 <div class="container-fluid">
   <h2 class="white-text" align="center">My page!!!!</h2>
 
- <p align="right">
+ <p align="center">
  <img class="smaller-image thick-red-border" src="http://bit.ly/2nk8lzP">
  <img class="smaller-image2" src="http://bit.ly/2nWQDWb">
  </p>
