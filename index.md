@@ -34,16 +34,16 @@
 <body style="background: url( http://bit.ly/2nTJeGN) no-repeat fixed; background-size: cover;"> 
 
 <div class="container-fluid">
-  <h2 class="white-text">My page!!!!</h2>
+  <h2 class="white-text" align="center">My page!!!!</h2>
 
-  <img class="smaller-image thick-red-border" src="http://bit.ly/2nk8lzP">
+  <img class="smaller-image thick-red-border" align="center" src="http://bit.ly/2nk8lzP">
 
   
-  <h2 class="white-text3">許程翔</h2>
-  <h2 class="white-text3">資工四乙</h2>
-  <h2 class="white-text3">402262361</h2>
+  <h2 class="white-text3" align="center">許程翔</h2>
+  <h2 class="white-text3" align="center">資工四乙</h2>
+  <h2 class="white-text3" align="center">402262361</h2>
 <p align="center">興趣:</p>
-  <ol class="white-text2">
+  <ol class="white-text2" align="center">
     <li >籃球,棒球,美式足球,武術</li>
     <li >模型,做東西</li>
     <li >看影劇,小說</li>
