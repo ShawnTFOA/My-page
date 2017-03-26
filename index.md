@@ -40,9 +40,9 @@
   <h2 class="white-text" align="center">My page!!!!</h2>
 
  <p align="center">
- <img class="smaller-image thick-red-border" src="http://bit.ly/2nk8lzP">
+ <img class="smaller-image thick-red-border" src="http://bit.ly/2nk8lzP"><img class="smaller-image2" src="http://bit.ly/2nWQDWb">
  </p>
-  <img class="smaller-image2" src="http://bit.ly/2nWQDWb">
+  
   <h2 class="white-text3" align="center">許程翔</h2>
   <h2 class="white-text2" align="center">資工四乙</h2>
   <h2 class="white-text2" align="center">402262361</h2>
