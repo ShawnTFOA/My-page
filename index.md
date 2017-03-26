@@ -12,14 +12,9 @@
     font-size: 16px;
     font-family: Monospace;
   }
-  .thick-green-border {
-    border-color: green;
-    border-width: 10px;
-    border-style: solid;
-    border-radius: 50%;
-  }
+  
 .smaller-image {
-    width: 100px;
+    width: 500px;
   }
 </style>
 
