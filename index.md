@@ -1,6 +1,6 @@
 <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 <style>
-  .red-text {
+  .black-text {
     color: black;
   }
 
@@ -12,23 +12,15 @@
     font-size: 16px;
     font-family: Monospace;
   }
-
-  .thick-green-border {
-    border-color: green;
-    border-width: 10px;
-    border-style: solid;
-    border-radius: 50%;
-  }
-
-  .smaller-image {
-    width: 100px;
+.smaller-image {
+    width: 50px;
   }
 </style>
 
 <div class="container-fluid">
   <h2 class="black-text">My page!!!!</h2>
 
-  <a href="#"><img class="smaller-image thick-green-border" src="https://drive.google.com/drive/my-drive"></a>
+  <a href="#"><img src="http://www.patriots.com/sites/patriots.com/files/1024x768-pats2016-wallpaper.jpg"></a>
 
   <p>興趣:</p>
   <ul>
