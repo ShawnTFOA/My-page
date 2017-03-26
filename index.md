@@ -28,7 +28,7 @@
     border-radius: 50%;
   }
 .smaller-image {
-    width: 100px;
+    width: 300px;
   }
   .smaller-image2 {
     width: 200px;
