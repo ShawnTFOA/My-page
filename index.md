@@ -1,7 +1,7 @@
 <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 <style>
   .black-text {
-    color: black;
+    color: white;
   }
 
   h2 {
@@ -11,6 +11,12 @@
   p {
     font-size: 16px;
     font-family: Monospace;
+  }
+  .thick-green-border {
+    border-color: green;
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 50%;
   }
 .smaller-image {
     width: 100px;
@@ -28,7 +34,6 @@
     <li>許程翔</li>
     <li>資工四乙</li>
     <li>402262361</li>
-    
   </ol>
 <p>興趣:</p>
   <ul>
