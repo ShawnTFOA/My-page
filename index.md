@@ -41,7 +41,7 @@
 
  <p align="center">
  <img class="smaller-image thick-red-border" src="http://bit.ly/2nk8lzP">
- <img class="smaller-image2" src="http://bit.ly/2nWQDWb">
+
  </p>
   
   <h2 class="white-text3" align="center">許程翔</h2>
