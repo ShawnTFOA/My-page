@@ -34,7 +34,7 @@
     width: 150px;
   }
 </style>
-<body style="background: url( http://bit.ly/2nTJeGN) no-repeat fixed; background-size: cover;"> 
+<body style="background: url( http://bit.ly/2n8m0cr) no-repeat fixed; background-size: cover;"> 
 
 <div class="container-fluid">
   <h2 class="white-text" align="center">My page!!!!</h2>
